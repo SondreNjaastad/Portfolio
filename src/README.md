@@ -1,2 +1,0 @@
-# Portfolio
-Developer portfolio system
